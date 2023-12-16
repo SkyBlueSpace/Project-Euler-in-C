@@ -1,4 +1,4 @@
-# Project-Euler-in-C
+# Project Euler in C
 Code for Project Euler
 
 I am starting to learn C with the help of a friend. 
